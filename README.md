@@ -18,7 +18,7 @@ Air Canvas is an interactive drawing application that allows users to draw in th
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/parthchande/AirCanvas.git
+   git clone https://github.com/ParthChande/AirCanvas.git
    cd AirCanvas
    ```
 ## Controls
@@ -35,6 +35,9 @@ Clear Canvas: Move your finger over the "CLEAR" button at the top left of the sc
 
 # Code Structure
 - air_canvas.py: The main application file that contains all the logic for hand tracking and drawing.
+
+![cam](https://github.com/user-attachments/assets/66f976c9-6c14-40e0-8baf-331284ceca73)
+
 
 # Dependencies
 opencv-python-headless: OpenCV library for image processing.
