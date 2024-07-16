@@ -36,6 +36,7 @@ Clear Canvas: Move your finger over the "CLEAR" button at the top left of the sc
 # Code Structure
 - air_canvas.py: The main application file that contains all the logic for hand tracking and drawing.
 
+# Output
 ![cam](https://github.com/user-attachments/assets/66f976c9-6c14-40e0-8baf-331284ceca73)
 
 
