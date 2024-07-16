@@ -18,7 +18,7 @@ Air Canvas is an interactive drawing application that allows users to draw in th
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AirCanvas.git
+   git clone https://github.com/parthchande/AirCanvas.git
    cd AirCanvas
    ```
 ## Controls
