@@ -24,9 +24,9 @@ Air Canvas is an interactive drawing application that allows users to draw in th
 ## Controls
 - Drawing: Move your index finger to draw on the canvas.
 - Color Selection:
--  Move your finger over the desired color button at the top of the screen and pinch with your -  thumb to select.
-- Available colors: BLUE, GREEN, RED, YELLOW.
-Clear Canvas: Move your finger over the "CLEAR" button at the top left of the screen and pinch with your thumb to clear the canvas.
+-- Move your finger over the desired color button at the top of the screen and pinch with your thumb to select.
+-- Available colors: BLUE, GREEN, RED, YELLOW.
+- Clear Canvas: Move your finger over the "CLEAR" button at the top left of the screen and pinch with your thumb to clear the canvas.
 
 # How It Works
 1. Hand Detection: Uses MediaPipe to detect and track hand landmarks in real-time.
